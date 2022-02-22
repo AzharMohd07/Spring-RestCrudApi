@@ -1,7 +1,7 @@
-package com.javatechie.jpa.repository;
+package com.azhar.jpa.repository;
 
-import com.javatechie.jpa.dto.OrderResponse;
-import com.javatechie.jpa.entity.Customer;
+import com.azhar.jpa.dto.OrderResponse;
+import com.azhar.jpa.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
