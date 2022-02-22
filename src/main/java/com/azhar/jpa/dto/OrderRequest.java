@@ -1,6 +1,6 @@
-package com.javatechie.jpa.dto;
+package com.azhar.jpa.dto;
 
-import com.javatechie.jpa.entity.Customer;
+import com.azhar.jpa.entity.Customer;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
