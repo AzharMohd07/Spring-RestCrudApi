@@ -1,10 +1,10 @@
-package com.javatechie.jpa.controller;
+package com.azhar.jpa.controller;
 
-import com.javatechie.jpa.dto.OrderRequest;
-import com.javatechie.jpa.dto.OrderResponse;
-import com.javatechie.jpa.entity.Customer;
-import com.javatechie.jpa.repository.CustomerRepository;
-import com.javatechie.jpa.repository.ProductRepository;
+import com.azhar.jpa.dto.OrderRequest;
+import com.azhar.jpa.dto.OrderResponse;
+import com.azhar.jpa.entity.Customer;
+import com.azhar.jpa.repository.CustomerRepository;
+import com.azhar.jpa.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
