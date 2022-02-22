@@ -1,4 +1,4 @@
-package com.javatechie.jpa.entity;
+package com.azhar.jpa.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
